@@ -3,7 +3,7 @@ layout: cv
 title: Brigham Young's Resume
 ---
 # Katie Larson
-The second prophet of The Church of Jesus Christ of Latter-day Saints. He has really cool beard. This is **bold** text and this is *italicized* text. 
+I like cats.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
