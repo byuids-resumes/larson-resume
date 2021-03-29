@@ -3,7 +3,7 @@ layout: cv
 title: Brigham Young's Resume
 ---
 # Katie Larson
-I like cats and dogs.
+I like cats and dogs, but not snakes.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
